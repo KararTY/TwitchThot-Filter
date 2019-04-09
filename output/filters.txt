@@ -1,0 +1,30 @@
+! Title: TwitchThot Cosmetic Filter
+! Homepage: https://github.com/KararTY/twitchthot-filter
+! Last modified: Tue, 09 Apr 2019 16:41:03 GMT
+! Expires: 7 days
+static-cdn.jtvnw.net/previews-ttv/live_user_ninja-*x*.*$image,third-party
+twitch.tv##img[alt="Ninja"]
+static-cdn.jtvnw.net/previews-ttv/live_user_alinity-*x*.*$image,third-party
+twitch.tv##img[alt="Alinity"]
+static-cdn.jtvnw.net/previews-ttv/live_user_pokimane-*x*.*$image,third-party
+twitch.tv##img[alt="pokimane"]
+static-cdn.jtvnw.net/previews-ttv/live_user_pink_sparkles-*x*.*$image,third-party
+twitch.tv##img[alt="Pink_Sparkles"]
+static-cdn.jtvnw.net/previews-ttv/live_user_stpeach-*x*.*$image,third-party
+twitch.tv##img[alt="STPeach"]
+static-cdn.jtvnw.net/previews-ttv/live_user_tarababcock-*x*.*$image,third-party
+twitch.tv##img[alt="TaraBabcock"]
+static-cdn.jtvnw.net/previews-ttv/live_user_lilchiipmunk-*x*.*$image,third-party
+twitch.tv##img[alt="Lilchiipmunk"]
+static-cdn.jtvnw.net/previews-ttv/live_user_c9sneaky-*x*.*$image,third-party
+twitch.tv##img[alt="C9Sneaky"]
+static-cdn.jtvnw.net/previews-ttv/live_user_emiru-*x*.*$image,third-party
+twitch.tv##img[alt="Emiru"]
+static-cdn.jtvnw.net/previews-ttv/live_user_cincinbear-*x*.*$image,third-party
+twitch.tv##img[alt="CinCinBear"]
+static-cdn.jtvnw.net/previews-ttv/live_user_morberplz-*x*.*$image,third-party
+twitch.tv##img[alt="Morberplz"]
+static-cdn.jtvnw.net/previews-ttv/live_user_chloelock-*x*.*$image,third-party
+twitch.tv##img[alt="ChloeLock"]
+static-cdn.jtvnw.net/previews-ttv/live_user_loserfruit-*x*.*$image,third-party
+twitch.tv##img[alt="LoserFruit"]

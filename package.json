@@ -1,0 +1,19 @@
+{
+  "name": "twitchthot-filter",
+  "version": "1.0.0",
+  "description": "The Ultimate Twitch viewing experience for virgins",
+  "main": "parse.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KararTY/TwitchThot-Filter.git"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/KararTY/TwitchThot-Filter/issues"
+  },
+  "homepage": "https://github.com/KararTY/TwitchThot-Filter#readme"
+}
