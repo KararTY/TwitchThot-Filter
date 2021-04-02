@@ -1,6 +1,6 @@
 ! Title: TwitchThot Cosmetic Filter
 ! Homepage: https://github.com/KararTY/twitchthot-filter
-! Last modified: Tue, 09 Apr 2019 16:41:03 GMT
+! Last modified: Fri, 02 Apr 2021 10:45:50 GMT
 ! Expires: 7 days
 static-cdn.jtvnw.net/previews-ttv/live_user_ninja-*x*.*$image,third-party
 twitch.tv##img[alt="Ninja"]
@@ -28,3 +28,9 @@ static-cdn.jtvnw.net/previews-ttv/live_user_chloelock-*x*.*$image,third-party
 twitch.tv##img[alt="ChloeLock"]
 static-cdn.jtvnw.net/previews-ttv/live_user_loserfruit-*x*.*$image,third-party
 twitch.tv##img[alt="LoserFruit"]
+static-cdn.jtvnw.net/previews-ttv/live_user_amouranth-*x*.*$image,third-party
+twitch.tv##img[alt="Amouranth"]
+static-cdn.jtvnw.net/previews-ttv/live_user_faith-*x*.*$image,third-party
+twitch.tv##img[alt="Faith"]
+static-cdn.jtvnw.net/previews-ttv/live_user_kiaraakitty-*x*.*$image,third-party
+twitch.tv##img[alt="Kiaraakitty"]

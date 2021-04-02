@@ -4,6 +4,7 @@
   "description": "The Ultimate Twitch viewing experience for virgins",
   "main": "parse.js",
   "scripts": {
+    "parse": "node .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
